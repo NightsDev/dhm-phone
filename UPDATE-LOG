@@ -1,11 +1,13 @@
-TITLE = "4TH OF JULY",
-DATE = "JULY 4, 2026",
-CODE = "JULY4" (and after it, add .." FOR IN-GAME REWARDS!" to the label.
-CONTENT = {
-1 = "- NEW PIER!",
-2 = "- NEW SKIN PACK!",
-3 = "- BUG FIXES!",
-4 = "- BLAH BLAH",
-5 = "- BLAH BLAH"
+{
+  "TITLE": "4TH OF JULY",
+  "DATE": "JULY 4, 2026",
+  "CODE": "JULY4",
+  "CONTENT": [
+    "- NEW PIER!",
+    "- NEW SKIN PACK!",
+    "- BUG FIXES!",
+    "- BLAH BLAH",
+    "- BLAH BLAH"
+  ],
+  "ICON": "rbxassetid://0"
 }
-ICON = rbxassetid://0
